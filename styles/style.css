@@ -6,6 +6,11 @@
   --footer-text-color: rgb(00, 55, 107);
 }
 
+body {
+  transform: scale(0.9);
+  transform-origin: top center;
+}
+
 *{
   margin: 0;
   padding: 0;
