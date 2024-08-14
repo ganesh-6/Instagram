@@ -111,7 +111,7 @@ body{
 }
 
 .login-button{
-  background-color: rgb(178,223,252);
+  background-color: var(--main-color);
   color: rgb(255,255,255);
   font-weight: bold;
   padding: 8px;
